@@ -10,4 +10,5 @@
 
 @interface ActionBlur : RSTrixiePlugin
 
+
 @end
