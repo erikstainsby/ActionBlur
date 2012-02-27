@@ -83,10 +83,10 @@
 		03530A4D14F0983B002E9A5E /* ActionBlur */ = {
 			isa = PBXGroup;
 			children = (
-				03530A4E14F0983B002E9A5E /* Supporting Files */,
 				03530C0614F09E25002E9A5E /* ActionBlur.h */,
 				03530C0714F09E25002E9A5E /* ActionBlur.m */,
 				03530C2514F0A1BD002E9A5E /* ActionBlur.xib */,
+				03530A4E14F0983B002E9A5E /* Supporting Files */,
 			);
 			path = ActionBlur;
 			sourceTree = "<group>";
@@ -294,6 +294,7 @@
 				03530A5814F0983B002E9A5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
